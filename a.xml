@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Shapes><shape>
+	<type>2</type>
+	<x1>650</x1>
+	<y1>74</y1>
+	<x2>331</x2>
+	<y2>342</y2>
+	<fontColor>0-0-0</fontColor>
+	<fillColor>204-255-102</fillColor>
+</shape>
+<shape>
+	<type>3</type>
+	<x1>1015</x1>
+	<y1>121</y1>
+	<x2>778</x2>
+	<y2>220</y2>
+	<fontColor>0-0-0</fontColor>
+	<fillColor>null</fillColor>
+</shape>
+<shape>
+	<type>3</type>
+	<x1>313</x1>
+	<y1>82</y1>
+	<x2>100</x2>
+	<y2>234</y2>
+	<fontColor>255-204-204</fontColor>
+	<fillColor>null</fillColor>
+</shape>
+</Shapes>
